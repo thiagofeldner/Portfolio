@@ -82,5 +82,6 @@ function updatePortfolio(profileData){
   updateHardSkills(profileData)
   updateLanguages(profileData)
   updatePortfolio(profileData)
-  updateCareer(profileData)  
+  updateCareer(profileData)
+  updateEducation(profileData)
 })()
