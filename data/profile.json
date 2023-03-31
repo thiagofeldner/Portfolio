@@ -88,5 +88,17 @@
       "period": "dez de 2020 - fev de 2021",
       "description": "Suporte via chat, whatsapp, acesso remoto via TeamViewer e visita aos clientes, para configuração, instalação e resolução de problemas, referentes aos sistemas desenvolvidos pela empresa."
     }
+  ],
+  "education": [
+    {
+      "name": "Análise e Desenvolvimento de Sistemas",
+      "period": "mar de 2020 - jul de 2022",
+      "school": "Centro Universitário Estácio BH"
+    },
+    {
+      "name": "Técnico de Informática Industrial",
+      "period": "jan de 1997 - dez de 2000",
+      "school": " CEFET - Centro Federal de Educação Tecnológica de Minas Gerais"
+    }
   ]
 }

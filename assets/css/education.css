@@ -1,0 +1,29 @@
+
+.education {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.education li {
+  margin-bottom: 0.5rem;
+}
+
+.education li .period {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.education li .period::before {
+  content: '';
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  background-image: url('../img/icones/education.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-right: .5rem;
+}
