@@ -47,17 +47,27 @@
   ],
   "portfolio": [
     {
-      "name": "Projeto realizado durante o curso de Javascript Developer da @DIO, criação de um portfólio dinâmico",
+      "name": "Projeto conclusão do curso de Javascript Developer da @DIO, criação de um portfólio dinâmico",
       "url": "https://github.com/thiagofeldner/Portfolio",
       "github": true
     },
     {
-      "name": "Curso realizado pela @RocketSeat realizando cadastro de cartões de crédito",
+      "name": "Projeto de HTML, CSS e Javascript realizado pela @DIO, criação de uma página como tema Stranger Things",
+      "url": "https://github.com/thiagofeldner/Projeto-Mundo-Invertido.git",
+      "github": true
+    },
+    {
+      "name": "Criação de um app de abertura de chamados técnicos,realizado na @RocketSeat, usando React Native",
       "url": "https://github.com/thiagofeldner/Lab_CardPay",
       "github": true
     },
     {
-      "name": "NLW realizando pela @RocketSeat de eSports para Mobile, Front-end e Back-end",
+      "name": "Curso realizado pela @RocketSeat realizando cadastro de cartões de crédito",
+      "url": "https://github.com/thiagofeldner/RocketHelp.git",
+      "github": true
+    },
+    {
+      "name": "NLW realizado pela @RocketSeat de eSports para Mobile, Front-end e Back-end",
       "url": "https://github.com/thiagofeldner/NLW-eSports",
       "github": true
     }
