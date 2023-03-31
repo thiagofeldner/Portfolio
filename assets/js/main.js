@@ -46,7 +46,8 @@ function updatePortfolio(profileData){
         <a href="${project.url}" target="_blank">${project.url}</a>
       </li>
     `
-  }).join('')
+    }).join('')
+  }
 
   function updateCareer(profileData) {
     const career = document.getElementById('profile.career')
@@ -60,15 +61,13 @@ function updatePortfolio(profileData){
       `
     }).join('')
   }
-}
 
-(async () => {
+  (async () => {
   const profileData = await fetchProfileData()
   updateProfileInfo(profileData)
   updateSoftSkills(profileData)
   updateHardSkills(profileData)
   updateLanguages(profileData)
   updatePortfolio(profileData)
-  updateCareer(profileData)
-  
+  updateCareer(profileData)  
 })()
