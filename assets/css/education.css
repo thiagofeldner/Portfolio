@@ -36,8 +36,8 @@
   content:'';
   display: inline-block;
   align-items: center;
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 2.5rem;
+  height: 1rem;
   background-image: url('../img/icones/education.svg');
   background-repeat: no-repeat;
   background-size: contain;
