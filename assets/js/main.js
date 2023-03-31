@@ -72,7 +72,7 @@ function updatePortfolio(profileData){
           <p>${education.school}</p>            
         </li>       
       `
-    })
+    }).join('')
   }
 
   (async () => {
