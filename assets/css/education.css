@@ -35,6 +35,7 @@
 .education li .period::before {
   content:'';
   display: inline-block;
+  align-items: center;
   width: 1.5rem;
   height: 1.5rem;
   background-image: url('../img/icones/education.svg');
