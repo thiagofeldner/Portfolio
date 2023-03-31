@@ -14,7 +14,7 @@
   width: 2rem;
   height: 2rem;
   margin-right: 0.5rem;
-  background-image: url('/assets/img/icones/header.svg');
+  background-image: url('../img/icones/header.svg');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -55,19 +55,19 @@
 }
 
 .information .job::before {
-  background: url('/assets/img/icones/job.svg') no-repeat center/contain;
+  background: url('../img/icones/job.svg') no-repeat center/contain;
 }
 
 .information .location::before {
-  background: url('/assets/img/icones/location.svg') no-repeat center/contain;
+  background: url('../img/icones/location.svg') no-repeat center/contain;
 }
 
 .information .phone::before {
-  background: url('/assets/img/icones/phone.svg') no-repeat center/contain;
+  background: url('../img/icones/phone.svg') no-repeat center/contain;
 }
 
 .information .email::before {
-  background: url('/assets/img/icones/email.svg') no-repeat center/contain;
+  background: url('../img/icones/email.svg') no-repeat center/contain;
 }
 
 @media only screen and (min-width: 768px) {
