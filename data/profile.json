@@ -9,11 +9,11 @@
     "hardSkills": [
       {
         "name": "Javascritp",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/data/imgs/js.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/data/imgs/react.png"
       },
       {
         "name": "Python",
