@@ -1,0 +1,29 @@
+
+.career {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.career li {
+  margin-bottom: 0.5rem;
+}
+
+.career li .period {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.career li .period::before {
+  content: '';
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  background-image: url('/assets/img/icones/period.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-right: .5rem;
+}
