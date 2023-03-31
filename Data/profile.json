@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Javascritp",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/Data/imgs/js.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/Data/imgs/react.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/Data/imgs/python.png"
       },
       {
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/Data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/Data/imgs/css.png"
       },
       {
         "name": "postgresql",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/Data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
