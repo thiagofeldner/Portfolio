@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Javascritp",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/assets/img/tools/js.svg"
-      },
-      {
-        "name": "AWS",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/assets/img/tools/aws.svg"
-      },
-      {
-        "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/assets/img/tools/css.svg"
-      },
-      {
-        "name": "Html",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/assets/img/tools/html.svg"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/js.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/assets/img/tools/react.svg"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/react.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/assets/img/tools/python.svg"
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/python.png"
+      },
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/css.png"
+      },
+      {
+        "name": "postgresql",
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/4af35ff2f70d38ac2dab064c6e49afdc7f7a006d/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
