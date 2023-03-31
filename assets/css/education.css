@@ -2,6 +2,8 @@
 .education {
   display: flex;
   flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
   margin: 0;
   padding: 0;
   list-style: none;
