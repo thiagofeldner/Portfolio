@@ -34,10 +34,6 @@
       {
         "name": "postgresql",
         "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/data/imgs/postgresql.png"
-      },
-      {
-        "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
