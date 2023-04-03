@@ -20,6 +20,10 @@
         "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/data/imgs/python.png"
       },
       {
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/data/imgs/php.png"
+      },
+      {
         "name": "Html",
         "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/data/imgs/html.png"
       },
@@ -30,6 +34,10 @@
       {
         "name": "postgresql",
         "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/data/imgs/postgresql.png"
+      },
+      {
+        "name": "MySql",
+        "logo": "https://raw.githubusercontent.com/thiagofeldner/Portfolio/master/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
