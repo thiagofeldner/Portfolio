@@ -1,8 +1,8 @@
 {
   "name": "Thiago Feldner",
   "photo": "https://avatars.githubusercontent.com/u/63859678?v=4",
-  "job": "TI Programador na G4F",
-  "location": "Belo Horizonte - MG",
+  "job": "Programador de Sistemas de Informação na G4F",
+  "location": "Sabará - MG",
   "phone": "(31)9 99774-9616",
   "email": "tfeldner@hotmail.com",
   "skills": {
@@ -80,22 +80,22 @@
     {
       "name": "Programador de sistemas de informação / G4F",
       "period": "Out 2022 - até o momento",
-      "description": "Alocado na agência Peixe Vivo para realização de melhorias do ambiente de TI da agência.Suporte ao sistema SAP, realizando levantamento das necessidades diárias da agência.Realização de relatórios diários das atividades realizadas.Alterações no site do comitê da bacia do verde grande.Criação de uma nova intranet da agência usando PHP laravel e SharePoint"
+      "description": "Suporte ao SAP, realizando levantamento das necessidades diárias da Agência, Criação da intranet usando o Sharepoint e do app com o PowerApps, Criação de um novo site usando o Angular, Criação de Dashboards com o BI para melhorar a tomada de decisões e metas da agência, criação de cartilhas informativas sobre Política da Segurança da Informação."
     },
     {
       "name": "Técnico Sênior / Documento Point Solucoes Digitais ltda",
       "period": "mar de 2021 - jul de 2022",
-      "description": "Suporte e manutenção em sistemas de impressões, manutenção em copiadoras e impressoras, suporte a sistemas e rede."
+      "description": "Suporte e manutenção de impressoras copiadoras, instalação, configuração e treinamento operacional a Sistemas de gerenciamento de impressões, suporte a redes, treinamento operacional para os clientes e treinamento técnico para os estágiarios e técnicos da empresa."
     },
     {
       "name": "Supervisor Adminstrativo / Meep",
       "period": "dez de 2020 - fev de 2021",
-      "description": "Suporte via chat, whatsapp, acesso remoto via TeamViewer e visita aos clientes, para configuração, instalação e resolução de problemas, referentes aos sistemas desenvolvidos pela empresa."
+      "description": "Suporte via chat, whatsapp, acesso remoto via TeamViewer para configuração, instalação e resolução de problemas dos sistemas da empresa, visita ao cliente para treinamento operacional, configuração, instalação e resolução de problemas."
     },
     {
       "name": "Analista Técnico Sênior / MR Solucoes Digitais Ltda ",
       "period": "out de 2006 - abr de 2020",
-      "description": "Suporte e manutenção em sistemas de impressões, manutenção em copiadoras e impressoras, suporte a sistemas e rede."
+      "description": "Suporte e manutenção de impressoras copiadoras, instalação, configuração e treinamento operacional a Sistemas de gerenciamento de impressões, suporte a redes, treinamento operacional para os clientes e treinamento técnico para os estágiarios e técnicos da empresa."
     }
   ],
   "education": [
